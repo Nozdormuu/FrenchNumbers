@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../randomCPP/FrenchNumbers.txt</file>
+        <file>FrenchNumbers</file>
+    </qresource>
+</RCC>
